@@ -1,0 +1,193 @@
+<?php
+
+
+return [
+	#Index page
+	'Начать зарабатывать' => 'Start earning',
+	'Сообщество ВК' => 'Group VK',
+	'Почему тысячи людей выбирают наш хостинг?' => 'Why do thousands of people choose our hosting?',
+	'Удобное управление' => 'Convenient management',
+	'Развитие проектов' => 'Project development',
+	'Поддержка 24/7' => 'Support 24/7',
+	'Реферальная система' => 'Referral system',
+	'Максимально простая, понятная и функциональная панель управления, доступная с любых устройств.' => 'The most simple, clear and functional control panel, accessible from any device.',
+	'Качество игровых серверов позволит вашему проекту развиваться и собирать тысячи игроков.' => 'The quality of the game servers will allow your project to develop and collect thousands of players.',
+	'Квалифицированные специалисты ответят на ваши вопросы круглосуточно.' => 'Qualified specialists will answer your questions around the clock.',
+	'За каждое приглашение вы будете получать бонусы и сможете обменять их на деньги.' => 'For each invitation, you will receive bonuses and be able to exchange them for money.',
+	'С помощью нашего ресурса ты можешь создать свой собственный сервер для <b>Minecraft</b>, <b>Minecraft Pocket Edition</b> и остальных платформ в пару кликов! Сервер будет полностью готов к работе уже через несколько секунд после оформления заказа!' => 'With the help of our resource you can create your own server for <b>Minecraft</b>, <b>Minecraft Pocket Edition</b> and other platforms in a couple of clicks! The server will be fully operational within a few seconds after placing the order!',
+	'Тарифные планы' => 'Tariff Plans',
+	'Выбирай только лучшее' => 'Choose only the best',
+	'Цена за 1 месяц' => 'Price for 1 month',
+	'Статистика сайта' => 'Site statistics',
+	'Всего пользователей' => 'Total users',
+	'Всего серверов' => 'Total servers',
+	'Всего рефералов' => 'Total referrals',
+	'Вы готовы?' => 'You are ready?',
+	'Создайте свой личный кабинет' => 'Create your personal account',
+	'Приглашай людей на сайт и получай сервер бесплатно =)' => 'Invite people to the site and get the server for free =)',
+	'Сумма должна быть от 10 до 15.000 рублей!' => 'The amount should be from 10 to 15.000 RUB!',
+
+	#Translate Control Edit page
+	'Слоты' => 'Slots',
+	'На сервер можно установить от <b>10</b> до <b>200</b> слотов!' => 'From <b>10</b> to <b>200</b> slots can be installed on the server!',
+	'Тарифный план' => 'Tariff plan',
+	'* Тарифный план сервера изменится после снятия суммы!' => '* The tariff plan of the server will change after the withdrawal of the amount!',
+	'Укажите количество слотов 10-200' => 'Specify the number of slots 10-200',
+	'Изменить' => 'Change',
+	'Вы действительно хотите изменить тариф?' => 'Do you really want to change the tariff?',
+
+	#Translate Control page
+	'FTP данные' => 'FTP data',
+	'Адрес' => 'Address',
+	'Пользователь' => 'User',
+	'Пароль' => 'Password',
+	'Порт' => 'Port',
+	'Смена FTP пароля' => 'FTP password change',
+	'Если вы не хотите менять FTP пароль, не заполняйте ни одно из этих полей ниже.' => 'If you do not want to change your FTP password, do not fill out any of these fields below.',
+	'Введите новый пароль' => 'Enter a new password',
+	'Повторите пароль' => 'Repeat password',
+	'Продлить сервер' => 'Extend server',
+	'Чем больше период продления, тем больше вы экономите!' => 'The longer the renewal period, the more you save!',
+	'Выберите период' => 'Choose a period',
+	'Игра' => 'Game',
+	'Оплачен до' => 'Paid to',
+	'Настройки' => 'Settings',
+	'Переустановить сервер' => 'Reinstall server',
+	'Сервер неоплачен!' => 'Server unpaid!',
+	'Выключен' => 'Disabled',
+	'Вы действительно хотите переустановить сервер?' => 'Are you sure you want to reinstall the server?',
+	'1 месяц' => '1 month',
+	'3 месяца' => '3 months',
+	'6 месяцев' => '6 months',
+	'12 месяцев' => '12 months',
+	'Введите команду без /' => 'Enter the command without /',
+
+	#PROMOCODES ADMIN
+	'Промокод с таким именем уже существует!' => 'Promo code with the same name already exists!',
+	'Новый промокод' => 'New promo code',
+	'Введите название промокода' => 'Enter promo code name',
+	'Введите процент промокода' => 'Enter Promo Code Percent',
+	'Добавить промокод' => 'Add promo code',
+	'Список промокодов пуст..' => 'The list of promotional codes is empty ..',
+	'Процент' => 'Percent',
+	'Название' => 'Name',
+
+
+	#Translate Support page
+	'Опишите как можно подробнее вашу проблему..' => 'Describe your problem in as much detail as possible ..',
+	'Новый чат' => 'New chat',
+	'Пожалуйста, выберите тему своего вопроса.' => 'Please select a topic for your question.',
+	'Выберите тему своего вопроса' => 'Choose a topic for your question.',
+	'Создать чат' => 'Create chat',
+	'Тип' => 'Type',
+	'Статус' => 'Status',
+	'Дата создания' => 'Date of creation',
+	'Проблемы с сервером' => 'Server problems',
+	'Проблемы с оплатой' => 'Problems with payment',
+	'Пожелания и замечания' => 'Wishes and comments',
+	'Открытый' => 'Opened',
+	'Закрытый' => 'Closed',
+	'Список чатов пуст..' => 'Chat list is empty ..',
+	'Вы действительно хотите закрыть данный чат?' => 'Do you really want to close this chat?',
+	'Пожалуйста, оставьте Ваш вопрос здесь. Чем доступнее и понятнее Вы изложите его суть, тем быстрее получите точный и понятный ответ от сотрудника технической поддержки.' => 'Please leave your question here. The more accessible and clearer you state its essence, the sooner you will receive an accurate and understandable answer from a technical support officer.',
+	'Диалог с поддержкой' => 'Dialogue with support',
+	'Закрыть' => 'Close',
+	'Отправить' => 'Send',
+	'Модератор' => 'Moderator',
+	'Вы' => 'You',
+	'Опубликовано' => 'Posted',
+
+	#Translate Servers page
+	'Новый сервер' => 'New server',
+	'Полная настройка проходит после установки сервера!' => 'Full configuration takes place after installing the server!',
+	'Выберите игру' => 'Choose a game',
+	'Выберите тарифный план' => 'Choose a tariff plan',
+	'Заказать сервер' => 'Order server',
+	'Онлайн' => 'Online',
+	'Версия' => 'Version',
+	'Дата' => 'Date',
+	'На вашем балансе недостаточно средств!' => 'You do not have enough funds on your balance!',
+	'Введите промокод (необьязательно)' => 'Enter promotional code (optional)',
+	'Вы действительно хотите удалить промокод?' => 'Are you sure you want to delete the promotional code?',
+
+	#Translate Header Menu
+	'Главная' => 'Home',
+	'Сервера' => 'Servers',
+	'Профиль' => 'Profile',
+	'Выход' => 'Logout',
+	'Вход в систему' => 'Sign Ip',
+	'Регистрация' => 'Sign Up',
+	'Финансы' => 'Finance',
+	'Поддержка' => 'Support',
+	'Промокоды' => 'Promocodes',
+
+	#Translate Finance page
+	'Пополнение баланса' => 'Recharge',
+	'* Платёжная система может взимать дополнительную комиссию.' => '* The payment system may charge additional fees.',
+	'Ваш баланс' => 'Your balance',
+	'Укажите сумму пополнения' => 'Enter the amount of replenishment',
+	'Перейти к оплате' => 'Go to the payment',
+	'Транзакции' => 'Transactions',
+	'Номер' => 'Number',
+	'Сумма' => 'Amount',
+	'Обмен бонусов' => 'Bonus exchange',
+	'Ваши бонусы' => 'Your bonuses',
+	'Укажите количество бонусов' => 'Enter the number of bonuses',
+	'Бонусы' => 'Bonuses',
+	'бонусов' => 'Bonuses',
+	'бонус' => 'Bonuses',
+	'Обменять бонусы' => 'Exchange bonuses',
+	'от' => 'from',
+	'У вас недостаточно бонусов!' => 'You do not have enough bonuses!',
+	'История пополнений' => 'Replenishment history',
+	'История пополнений пуста..' => 'The replenishment history is empty..',
+	'Оплачено' => 'Paid',
+	'Не оплачено' => 'Unpaid',
+
+	#Translate Cabinet index page
+	'Настройки аккаунта' => 'Account Settings',
+	'Статус' => 'Status',
+	'Администратор' => 'Administrator',
+	'Пользователь' => 'User',
+	'Никнейм' => 'Nickname',
+	'Изменить пароль' => 'Change Password',
+	'Если вы не хотите менять свой пароль, не заполняйте ни одно из этих полей ниже.' => 'If you do not want to change your password, do not fill out any of these fields below.',
+	'Текущий пароль' => 'Current Password',
+	'Новый пароль' => 'New Password',
+	'Повторите пароль' => 'Confirm Password',
+	'Баланс' => 'Balance',
+	'Дата регистрации' => 'Date',
+	'Бонусы' => 'Bonus',
+	'Реф. ссылка' => 'Referals',
+
+	#Translate Dashboard login page
+	'Ваш E-mail' => 'Your E-mail',
+	'Ваш баланс' => 'Your balance',
+	'Биллинг' => 'Billing',
+
+	#Translate Cabinet login page
+	'Войти в систему' => 'Log in',
+	'Пароль' => 'Password',
+	'Восстановить пароль' => 'Restore Password',
+	'Запомнить' => 'Remember',
+
+	#Translate Cabinet register page
+	'Вход в личный кабинет' => 'Login to your account',
+	'Зарегистрироваться' => 'Register',
+
+	#Translate Cabinet recovery page
+	'Восстановление пароля временно недоступно!' => 'Password recovery in demo mode is not available',
+
+
+	#Translate Admin menu
+	'Пользователи' => 'Users',
+	'Web Settings' => 'Web Settings',
+
+	#Translate Models
+	'Текущий пароль неверный!' => 'Current password is incorrect!',
+	'Введённые пароли не совпадают!' => 'Entered passwords do not match!',
+	'Ваш аккаунт заблокирован! Свяжитесь с Администратором!' => 'Your account has been blocked! Contact the administration!',
+	'Никнейм или Пароль неверный!' => 'Nickname or Password is invalid!',
+	'Указанный E-mail уже используется на сайте!' => 'E-mail is already attached to the site!',
+
+];
